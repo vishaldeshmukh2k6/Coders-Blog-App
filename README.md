@@ -33,5 +33,6 @@ This is a blog application built using **Flask**, with features like admin panel
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/vishaldeshmukh/flask-blog.git
-cd flask-blog
+git clone https://github.com/vishaldeshmukh2k6/Coders-Blog-App.git
+cd Coders-Blog-App
+
